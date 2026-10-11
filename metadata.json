@@ -1,0 +1,6 @@
+{
+  "name": "Buildresume",
+  "description": "AI-Powered Dynamic Resume Builder & Career Intelligence Platform. Create a master profile once and build tailored, ATS-friendly resumes for every opportunity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
